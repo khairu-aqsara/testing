@@ -15,6 +15,7 @@ function Periksa($num){
         }
     }
     return $c==2;
+}
 ```
 
 ### 2
